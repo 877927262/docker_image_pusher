@@ -3,3 +3,4 @@ manondidi/mycat:1.6.7.5
 redis:6.0.10
 mongo:4.4.7
 rabbitmq:3.8.9
+minio/minio:latest
